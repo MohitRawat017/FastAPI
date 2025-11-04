@@ -1,0 +1,58 @@
+
+{
+    "P001": {
+        "name": "John Doe",
+        "city": "New York",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 80,
+        "bmi": 26.1,
+        "blood_type": "O+",
+        "verdict": "Healthy"
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "city": "Los Angeles",
+        "age": 30,
+        "gender": "Female",
+        "height": 1.65, 
+        "weight": 60,
+        "bmi": 22.0,
+        "blood_type": "A-",
+        "verdict": "Underweight"
+    },
+    "P003": {
+        "name": "Alice Johnson",
+        "city": "Chicago",
+        "age": 55,
+        "gender": "Female",
+        "height": 1.60,
+        "weight": 70,
+        "bmi": 27.3,
+        "blood_type": "B+",
+        "verdict": "Overweight" 
+    },
+    "P004": {
+        "name": "Bob Brown",
+        "city": "Houston",
+        "age": 40,
+        "gender": "Male",
+        "height": 1.80,         
+        "weight": 90,
+        "bmi": 27.8,        
+        "blood_type": "AB+",
+        "verdict": "Healthy"
+    },
+    "P005": {
+        "name": "Charlie Davis",
+        "city": "Phoenix",
+        "age": 28,
+        "gender": "Male",   
+        "height": 1.72,         
+        "weight": 68,   
+        "bmi": 22.9,
+        "blood_type": "O-",
+        "verdict": "Healthy"
+    }
+}
